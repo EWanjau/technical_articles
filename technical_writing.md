@@ -96,14 +96,4 @@ Technical Writing, Knowledge Sharing, Dev.to, AI Agents, SQL, PostgreSQL, Power 
 
 ---
 
-## Portfolio Value
 
-These articles show:
-
-- Public technical presence
-- Ability to explain complex ideas
-- Communication skill
-- Data and software knowledge
-- Documentation ability
-- Commitment to continuous learning
-- Credibility beyond project work
