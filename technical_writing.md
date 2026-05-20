@@ -68,36 +68,27 @@ Technical writer and knowledge-sharing contributor with published articles focus
 
 ---
 
-## CV-Ready Technical Writing Section
-
-### Technical Writing & Knowledge Sharing
+## Technical Writing Summary
 
 - Published technical articles on Dev.to covering **AI agents, SQL, PostgreSQL-Power BI integration, Power BI data modeling, Excel analytics, and Git/GitHub**.
-- Wrote beginner-friendly and practical guides explaining data analytics, business intelligence, database, and developer-tooling concepts.
-- Authored content that demonstrates ability to document technical workflows, communicate complex ideas clearly, and support peer learning.
-- Created public knowledge resources aligned with Data Science, BI, AI automation, and software development workflows.
+- Writes beginner-friendly and practical guides explaining data analytics, business intelligence, database, and developer-tooling concepts.
+- Documents technical workflows, communicates complex ideas clearly, and supports peer learning.
+- Creates public knowledge resources aligned with data science, BI, AI automation, and software development workflows.
 
 ---
 
-## Suggested CV Format
+## Selected Articles
 
-```md
-## Technical Writing & Knowledge Sharing
-
-Published technical articles on Dev.to covering AI agents, SQL, PostgreSQL-Power BI integration, data modeling, Excel analytics, and Git/GitHub.
-
-Selected articles:
 - Understanding How AI Agents Work
 - Integrating PostgreSQL with Power BI for Data Analysis
 - Master SQL: Navigating Joins and Window Functions
 - Data Modelling and Schemas in Power BI
 - Introduction to MS Excel for Data Analytics
 - Git and GitHub for Beginners
-```
 
 ---
 
-## ATS Keywords
+## Keywords
 
 ```text
 Technical Writing, Knowledge Sharing, Dev.to, AI Agents, SQL, PostgreSQL, Power BI, Data Modeling, Schema Design, Excel Analytics, Git, GitHub, Data Analytics, Business Intelligence, Developer Tools, Documentation, Technical Communication
@@ -107,7 +98,7 @@ Technical Writing, Knowledge Sharing, Dev.to, AI Agents, SQL, PostgreSQL, Power 
 
 ## Portfolio Value
 
-These articles strengthen the Master CV by showing:
+These articles show:
 
 - Public technical presence
 - Ability to explain complex ideas
