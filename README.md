@@ -4,7 +4,11 @@ This repository contains Markdown source files for technical writing and knowled
 
 The current collection highlights published articles on AI agents, data analytics, business intelligence, SQL, Power BI, Excel, PostgreSQL integration, Git, and GitHub. It is intended to keep the writing portfolio organized, version controlled, and ready to publish or share online.
 
+## Published Articles
+
+Read the published articles on Dev.to: https://dev.to/erasto
+
 ## Contents
 
-- `technical_writing.md` - A curated technical writing portfolio with article links, topic areas, and a CV-ready summary.
+- `technical_writing.md` - A curated technical writing portfolio with article links, topic areas, and a standalone summary.
 
